@@ -14,3 +14,5 @@
 <li>7</li>
 <li>3 раза</li>
 </ol>
+
+Скриншоты: https://github.com/SfBalaba/DebugLesson/issues/3
